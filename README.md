@@ -24,7 +24,7 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dslwa&hide=html,php,css&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dslwa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dslwa&hide=jupyter_notebook,html,php,css&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dslwa" />
 </p>
 
 <h2 align="left">Connect with Me</h2>
