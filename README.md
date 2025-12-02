@@ -3,9 +3,9 @@
 
 <h2 align="left">About Me</h2>
 
-- 🎓 I’m currently a **third-year student** at AGH University of Science and Technology, specializing in **Computational Engineering**.
-- 🌱 I’m currently learning **Python** and exploring its applications in data analysis and machine learning.
-- 💻 Check out my projects below to see what I've been working on!
+- I’m currently a **fourth-year student** at AGH University of Science and Technology, specializing in **Computational Engineering**.
+-  I’m currently learning **Python** and exploring its applications in data analysis and machine learning.
+-  Check out my projects below to see what I've been working on!
 <h2 align="left">Languages and Tools</h2>
 
 <p align="left">
